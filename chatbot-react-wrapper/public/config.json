@@ -1,0 +1,10 @@
+// {
+//     "domain" :  "hr_finance",
+//     "instance_type" :  "backend",
+//     "chatbot_api_host" :  "https://localhost:5015",
+//     "vefification_api" :  "https://localhost:5015/varifyUser",
+//     "zoom_app_host" :  "hermesbetahr.workflo.ai",
+//     "zoom_app_port" :  "8085",
+//     "push_server_host" :  "https://localhost:5005" 
+// }
+  
